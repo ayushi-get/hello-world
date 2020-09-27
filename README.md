@@ -1,2 +1,4 @@
 # hello-world
-first one
+hello everyone!
+
+i am quite new to this
